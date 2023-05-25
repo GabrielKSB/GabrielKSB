@@ -7,7 +7,9 @@
 <h3>
    These are some of the technologies I studied
 </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,ae,bootstrap,figma,ps,pr,visualstudio)](https://skillicons.dev)
+
 <hr>
 
 
