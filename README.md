@@ -1,14 +1,14 @@
 <h1>Gabriel Kennedy</h1>
 </hr>
 <h4>
-   I'm Gabriel Kennedy - I'm Fullstack Developer and Designer.
+   I'm Gabriel Kennedy - I'm Front-end Developer and Designer.
 </h4>
 <hr>
 <h3>
    These are some of the technologies I studied
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cs,ae,bootstrap,figma,ps,pr,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,prisma,c,cs,ae,bootstrap,figma,ps,pr,visualstudio)](https://skillicons.dev)
 
 <hr>
 
