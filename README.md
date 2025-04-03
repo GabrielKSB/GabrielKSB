@@ -8,7 +8,7 @@
    These are some of the technologies I studied
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,prisma,c,cs,ae,bootstrap,figma,ps,pr,visualstudio,vscode,mysql,tailwind,figma,git,jquery,react,dotnet,expressjs,git,github,mongodb,notion,npm,postgres,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,prisma,c,cs,ae,bootstrap,figma,ps,pr,visualstudio,vscode,mysql,tailwind,figma,git,jquery,react,dotnet,expressjs,git,github,mongodb,notion,postgres,react,sass)](https://skillicons.dev)
 
 <hr>
 
