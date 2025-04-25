@@ -1,7 +1,7 @@
 <h1>Gabriel Kennedy</h1>
 </hr>
 <h4>
-   I'm Gabriel Kennedy - I'm Front-end Developer and Designer.
+   I'm Gabriel Kennedy - I'm Full-Stack Developer and Designer.
 </h4>
 <hr>
 <h3>
