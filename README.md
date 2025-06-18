@@ -16,9 +16,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielKSB&show_icons=true&theme=radical"></img>
  </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GabrielKSB/GabrielKSB/output/snake.svg" alt="Snake animation" />
-
-### 
