@@ -16,7 +16,7 @@
 
 ## What I do
 
-I build and maintain the backend of a **last-mile logistics platform** running in production —
+I build and maintain the backend and frontend of a **last-mile logistics platform** running in production —
 REST APIs in **Node.js/Express**, **PostgreSQL** with Sequelize, background jobs on **Redis**,
 and a large legacy **Angular / jQuery / Kendo UI** frontend under active modernization.
 
