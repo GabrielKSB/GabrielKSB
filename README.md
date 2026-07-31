@@ -49,16 +49,16 @@ Graduated in Systems Analysis & Development and in Computer Engineering.
 
 ---
 
-## Selected projects
+<!-- ## Selected projects -->
 
 <!-- TODO: substituir pelos repos reais e fixá-los em "Customize your pins" -->
-| Project | What it is | Stack |
+<!--  | Project | What it is | Stack |
 |---|---|---|
 | **[nome-do-repo](#)** | *uma linha: o problema que resolve* | Node.js · PostgreSQL |
 | **[nome-do-repo](#)** | *uma linha: o problema que resolve* | NestJS · DDD |
 
 ---
-
+-->
 ## Beyond code
 
 Design background — After Effects, Photoshop, Premiere and Figma.
