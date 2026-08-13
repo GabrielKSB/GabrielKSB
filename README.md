@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Kennedy</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> — backend-leaning<br>
+  <b>Full-Stack Developer</b><br>
   Node.js · TypeScript · PostgreSQL · Angular<br>
   <sub>Guarulhos, SP — Brazil</sub>
 </p>
