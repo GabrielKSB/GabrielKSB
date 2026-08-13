@@ -22,14 +22,14 @@ and a large legacy **Angular / jQuery / Kendo UI** frontend under active moderni
 
 Most of my work sits where **money, identity and legacy code** meet:
 
-- 🔑 **Enterprise SSO** — OAuth2 / OIDC with **PKCE**, integrating Okta, Auth0 and Microsoft (MSAL),
+- **Enterprise SSO** — OAuth2 / OIDC with **PKCE**, integrating Okta, Auth0 and Microsoft (MSAL),
   including claims challenge and step-up MFA flows.
-- 🔒 **Application security** — removing `unsafe-inline` and `unsafe-eval` from the
+- **Application security** — removing `unsafe-inline` and `unsafe-eval` from the
   Content Security Policy of a legacy codebase, without breaking a decade of inline handlers.
-- 💰 **Billing & business rules** — invoice calculation, SLA rules, penalties, disputes and
+- **Billing & business rules** — invoice calculation, SLA rules, penalties, disputes and
   refunds, shipped behind **feature flags** for controlled rollout.
-- ⚙️ **Async processing** — scheduled jobs, queues and workers for batch financial routines.
-- 📱 **Mobile features** — Flutter screens integrating a facial-biometrics SDK for identity validation.
+- **Async processing** — scheduled jobs, queues and workers for batch financial routines.
+- **Mobile features** — Flutter screens integrating a facial-biometrics SDK for identity validation.
 
 Graduated in Systems Analysis & Development and in Computer Engineering.
 
@@ -51,7 +51,6 @@ Graduated in Systems Analysis & Development and in Computer Engineering.
 
 <!-- ## Selected projects -->
 
-<!-- TODO: substituir pelos repos reais e fixá-los em "Customize your pins" -->
 <!--  | Project | What it is | Stack |
 |---|---|---|
 | **[nome-do-repo](#)** | *uma linha: o problema que resolve* | Node.js · PostgreSQL |
