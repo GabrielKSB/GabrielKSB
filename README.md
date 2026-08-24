@@ -22,7 +22,7 @@ and a large legacy **Angular / jQuery / Kendo UI** frontend under active moderni
 
 Most of my work sits where **money, identity and legacy code** meet:
 
-- **Enterprise SSO** — OAuth2 / OIDC with **PKCE**, integrating Okta, Auth0 and Microsoft (MSAL),
+- **Enterprise SSO** — OAuth2 / OIDC, integrating Okta, Auth0 and Microsoft (MSAL),
   including claims challenge and step-up MFA flows.
 - **Application security** — removing `unsafe-inline` and `unsafe-eval` from the
   Content Security Policy of a legacy codebase, without breaking a decade of inline handlers.
