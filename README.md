@@ -1,53 +1,51 @@
-<h1 align="center">Gabriel Kennedy</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer</b><br>
-  Node.js · TypeScript · PostgreSQL · Angular<br>
-  <sub>Guarulhos, SP — Brazil</sub>
-</p>
+<h3><code>gabriel@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year, refreshed daily" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielkennedysb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<br><br>
 
----
+<h3><code>gabriel@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./terminal-session.svg" width="370" alt="GK monogram and a terminal session: branch, tests for billing, SSO and CSP, push, feature-flag rollout" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Gabriel Kennedy, Full-Stack Developer. Focus: SSO, application security, billing, async jobs, mobile. Stack: Node.js, TypeScript, PostgreSQL, Angular." /></td>
+  </tr>
+</table>
 
-## What I do
+<br>
 
-I build and maintain the backend and frontend of a **last-mile logistics platform** running in production —
+<a href="https://www.linkedin.com/in/gabrielkennedysb">
+  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+<h3><code>gabriel@github ~ $ cat about.md</code></h3>
+
+I build and maintain the backend and frontend of a **last-mile logistics platform** running in production:
 REST APIs in **Node.js/Express**, **PostgreSQL** with Sequelize, background jobs on **Redis**,
 and a large legacy **Angular / jQuery / Kendo UI** frontend under active modernization.
 
 Most of my work sits where **money, identity and legacy code** meet:
 
-- **Enterprise SSO** — OAuth2 / OIDC, integrating Okta, Auth0 and Microsoft (MSAL),
+- **Enterprise SSO**: OAuth2 / OIDC, integrating Okta, Auth0 and Microsoft (MSAL),
   including claims challenge and step-up MFA flows.
-- **Application security** — removing `unsafe-inline` and `unsafe-eval` from the
+- **Application security**: removing `unsafe-inline` and `unsafe-eval` from the
   Content Security Policy of a legacy codebase, without breaking a decade of inline handlers.
-- **Billing & business rules** — invoice calculation, SLA rules, penalties, disputes and
+- **Billing & business rules**: invoice calculation, SLA rules, penalties, disputes and
   refunds, shipped behind **feature flags** for controlled rollout.
-- **Async processing** — scheduled jobs, queues and workers for batch financial routines.
-- **Mobile features** — Flutter screens integrating a facial-biometrics SDK for identity validation.
+- **Async processing**: scheduled jobs, queues and workers for batch financial routines.
+- **Mobile features**: Flutter screens integrating a facial-biometrics SDK for identity validation.
 
 Graduated in Systems Analysis & Development and in Computer Engineering.
+Design background too (After Effects, Photoshop, Premiere, Figma), useful more often than you'd think when the product still needs to *look* finished.
 
----
-
-## Stack
-
-**Backend**   `Node.js` `Express` `TypeScript` `JavaScript` `REST` `Sequelize`
-**Data**      `PostgreSQL` `MySQL` `Redis`
-**Frontend**  `Angular` `React` `jQuery` `Kendo UI` `Tailwind` `Bootstrap` `Sass`
-**Mobile**    `Flutter`
-**Also**      `C#` `.NET` `Docker` `Git` `Figma`
+<h3><code>gabriel@github ~ $ ls ~/stack</code></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mysql,redis,angular,react,jquery,tailwind,flutter,cs,dotnet,docker,git&perline=8" alt="Node.js, Express, TypeScript, JavaScript, PostgreSQL, MySQL, Redis, Angular, React, jQuery, Tailwind, Flutter, C#, .NET, Docker, Git">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mysql,redis,angular,react,jquery,tailwind,flutter,cs,dotnet,docker,git&perline=8&theme=dark" alt="Node.js, Express, TypeScript, JavaScript, PostgreSQL, MySQL, Redis, Angular, React, jQuery, Tailwind, Flutter, C#, .NET, Docker, Git">
 </p>
-
----
 
 <!-- ## Selected projects -->
 
@@ -55,10 +53,6 @@ Graduated in Systems Analysis & Development and in Computer Engineering.
 |---|---|---|
 | **[nome-do-repo](#)** | *uma linha: o problema que resolve* | Node.js · PostgreSQL |
 | **[nome-do-repo](#)** | *uma linha: o problema que resolve* | NestJS · DDD |
-
----
 -->
-## Beyond code
 
-Design background — After Effects, Photoshop, Premiere and Figma.
-Useful more often than you'd think when the product still needs to *look* finished.
+<sub>Heatmap regenerated daily by GitHub Actions from public contribution data. Monogram, terminal session, card and heatmap are hand-rolled animated SVGs (see <code>scripts/</code>).</sub>
