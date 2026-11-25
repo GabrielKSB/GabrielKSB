@@ -1,9 +1,9 @@
 {
  "user": "GabrielKSB",
- "generated": "2026-11-24",
- "total": 2430,
- "current_streak": 43,
- "longest_streak": 43,
+ "generated": "2026-11-25",
+ "total": 2441,
+ "current_streak": 44,
+ "longest_streak": 44,
  "best_day": {
   "date": "2026-10-21",
   "count": 40,
@@ -22,7 +22,7 @@
   "2026-08": 193,
   "2026-09": 67,
   "2026-10": 409,
-  "2026-11": 169
+  "2026-11": 180
  },
  "days": [
   {
@@ -1857,7 +1857,12 @@
   },
   {
    "date": "2026-11-24",
-   "count": 5,
+   "count": 10,
+   "level": 2
+  },
+  {
+   "date": "2026-11-25",
+   "count": 6,
    "level": 1
   }
  ]
